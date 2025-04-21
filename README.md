@@ -23,10 +23,12 @@ Project Structure
 * **README.md:** Provides project overview, instructions, and gameplay demo.
 
 ## Demo
-
+<img width="781" alt="Screenshot 2025-04-15 at 7 09 08ΓÇ»PM" src="https://github.com/user-attachments/assets/55485c21-4f1f-4079-93d4-d7b468660c61" />
+<img width="781" alt="Screenshot 2025-04-15 at 7 08 33ΓÇ»PM" src="https://github.com/user-attachments/assets/4761a139-c4a7-483b-8c7b-419b0c86e57e" />
+<img width="781" alt="Screenshot 2025-04-15 at 7 08 59ΓÇ»PM" src="https://github.com/user-attachments/assets/dff2c33f-e615-4ab6-8f1e-57cdf450ab32" />
 
 ## Class Diagram
-
+<img width="1224" alt="Screenshot 2025-04-15 at 7 11 05ΓÇ»PM" src="https://github.com/user-attachments/assets/ef9b36da-5264-4e4d-a920-2293a244845f" />
 
 ## Use of Design Principles and Design Patterns
 
